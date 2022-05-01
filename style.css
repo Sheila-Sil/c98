@@ -1,0 +1,40 @@
+body{
+background-color: lightcyan;
+
+}
+h1{font-family: cursive;
+font-style: italic;
+font-weight: bold;
+}
+
+h4{
+    color: mediumaquamarine;
+}#camera{
+
+    width: 500px;
+    height: 400px;
+    border: 1px solid rgb(9, 143, 161); 
+}
+img{
+    width: 37%;
+    border-radius: 4px;
+    padding: 10px;
+    box-shadow: 5px 5px 5px rosybrown;
+}
+.column{
+    display: inline;
+    padding:10px;
+}
+img:hover{
+    border-radius: 140px;
+}
+.copy_right_footer{
+position:fixed;
+color:darkslategray;
+bottom:0;
+width:100%;
+background-color: deepskyblue;
+line-height:3;
+text-align: center;
+
+}
